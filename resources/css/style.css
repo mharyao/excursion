@@ -1,0 +1,50 @@
+.title p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+}
+
+#download .cta{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#h2 {
+    font-weight: 300;
+    font-size: 42px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text2 p{
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 1rem;
+
+}
+
+footer p{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1rem;
+}
